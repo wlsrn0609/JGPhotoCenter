@@ -8,6 +8,8 @@ import ObjectiveC
 
 public class JGPhotoCenter {
     
+    public static let version = "0.1.0"
+    
     public enum ContentOption {
         case camera
         case album
